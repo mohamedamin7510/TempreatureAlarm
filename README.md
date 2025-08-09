@@ -17,7 +17,7 @@ This design demonstrates clear separation of concerns and decoupled communicatio
 
 ## Technologies Used
 - **C#**
-- **.NET Console Application** (e.g., .NET 7 or 8)
+- **.NET Application** (e.g., .NET 7 or 8 or 9)
 - Object-Oriented Programming principles
 - Events & Delegates for communication between components
 - Project structure includes `.csproj`, `.sln`, and source code files like `Program.cs`, `Sensor.cs`, `TempEventArgs.cs`, `Display.cs`, `Alarm.cs`
@@ -27,14 +27,15 @@ This design demonstrates clear separation of concerns and decoupled communicatio
 ## Getting Started
 
 ### Prerequisites
-- Install the .NET SDK (e.g., .NET 7 or 8)
+- Install the .NET SDK (e.g., .NET 7 or 8 or 9)
 
 ### Installation & Usage
 
-git clone https://github.com/mohamedamin7510/TempreatureAlarm.git
-cd TempreatureAlarm
-dotnet build
-dotnet run
+- git clone https://github.com/mohamedamin7510/TempreatureAlarm.git
+- cd TempreatureAlarm
+- dotnet build
+- dotnet run
+  
 ## Contribution
 Contributions are welcome! Steps to contribute:
 
@@ -60,5 +61,4 @@ If you'd like to enhance it, consider:
 - Multiple sensor support
 - A graphical user interface or richer console UI
 ---
----
----
+
