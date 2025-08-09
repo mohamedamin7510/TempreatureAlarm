@@ -30,7 +30,7 @@ This design demonstrates clear separation of concerns and decoupled communicatio
 - Install the .NET SDK (e.g., .NET 7 or 8)
 
 ### Installation & Usage
-```bash
+
 git clone https://github.com/mohamedamin7510/TempreatureAlarm.git
 cd TempreatureAlarm
 dotnet build
@@ -59,3 +59,6 @@ If you'd like to enhance it, consider:
 - Logging or file-based input/output
 - Multiple sensor support
 - A graphical user interface or richer console UI
+---
+---
+---
